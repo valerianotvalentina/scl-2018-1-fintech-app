@@ -46,7 +46,7 @@ Manager del equipo les brinda el contexto:
   con usuarios. El Gerente General, animado por el crecimiento del número de
   descargas que ha tenido el app, quiere duplicar el presupuesto de Facebook
   Ads… Yo no estoy tan seguro; quisiera que como parte de su trabajo estas
-  próximas dos semanas, entendamos ese punto también.”
+  próximas semanas, entendamos ese punto también.”
 
 ![preview app de finanzas](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
 
@@ -61,7 +61,7 @@ links, encontrarán:
   , con una guía de componentes y el [Prototipo navegable](https://marvelapp.com/e9h245e)
 - Funnel Analytics de los primeros 6 meses del MVP
 - Data de uso del MVP de los primeros 6 meses
-- [Landing Page](http://fintechapp-laboratoria.pagedemo.co/) inicial del producto
+- [Landing Page](http://tus-finanzas.pagedemo.co/) inicial del producto
 
 ## Objetivos de aprendizaje
 
@@ -189,7 +189,8 @@ llegar al banco al final de tu investigación y por qué. El coach te aprobará
 estos entregables o te dará feedback para mejorarlos.
 
 Cuando hagas tu presupuesto y pienses en los entregables recuerda que el tiempo
-de desarrollo de este proyecto es de dos semanas. También, recuerda qué partes
+de desarrollo de este proyecto es de menos de dos semanas (ya que los encargados deben
+entregar su presentación en ese tiempo). También, recuerda qué partes
 te tomaron más tiempo en el desarrollo del proyecto 1 y los aprendizajes que
 tuviste al desarrollar el proyecto 1.
 
